@@ -56,7 +56,7 @@ var otherUrls = [
 ];
 var foreverUrls = [
     'https://911tanhua.net',JumpPage
-	 'https://911tanhua.com',
+	'https://911tanhua.com',
 ];
 var notices = [
     '* 我们推荐PC和Andriod手机用户使用Chrome(谷歌)浏览器访问，iPhone用户我们建议您使用手机自带Safria浏览器访问。',
