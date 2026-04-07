@@ -70,7 +70,7 @@ var otherUrls = [
 var foreverUrls = [
 	'https://911tanhua.com',
 	JumpPage,
-	'911tanhua.net',
+	'https://911tanhua.net',
 	
 ];
 var notices = [
