@@ -36,27 +36,42 @@ var emails = [
     '911tanhua@gmail.com'
 ];
 
-var urls=[
-	'lgrhxewi.cc',
-];
-                                                                                                                  
+var urls=[]; 
+       urls.push(".lgrhxewi.cc");  
+       urls.push(".911tanhua.com");
+     
+       
+          
+      
+                                                                                 
 var JumpPage="https://lqbfrkdn.com";
 
 var newestUrls = [];
 
 
 for(var i =0;i<urls.length*3;i++){
-    newestUrls.push( 'https://' + getRandomSubdomain() +'.' + urls[randomNum(0,urls.length-1)]);
+    newestUrls.push( 'https://' + getRandomSubdomain() +urls[randomNum(0,urls.length-1)]);
 }
 
+// var newestUrls = [
+//     'https://' + getRandomSubdomain() + '.vikxddcy.org',    
+//     'https://' + getRandomSubdomain() + '.vikxddcy.org',
+//     'https://' + getRandomSubdomain() + '.vikxddcy.org',    
+//     'https://' + getRandomSubdomain() + '.vildiho.cc',
+// 	'https://' + getRandomSubdomain() + '.vildiho.cc',    
+//     'https://' + getRandomSubdomain() + '.vildiho.cc'
+// ];
 var otherUrls = [
-	'https://911tanhua.com.github.io',
-	'https://911tanhua.netlify.app',
-	'https://911tanhua.pages.dev',
+    'https://911tanhua.github.io',
+    'https://911tanhua.netlify.app',
+    'https://911tanhua.pages.dev',
+    
 ];
 var foreverUrls = [
-    'https://911tanhua.net',JumpPage
 	'https://911tanhua.com',
+	JumpPage,
+	'911tanhua.net',
+	
 ];
 var notices = [
     '* 我们推荐PC和Andriod手机用户使用Chrome(谷歌)浏览器访问，iPhone用户我们建议您使用手机自带Safria浏览器访问。',
@@ -124,7 +139,7 @@ window.onload = function () {
     var logoElem = document.createElement('div');
     logoElem.setAttribute('class', 'brand');
     logoElem.setAttribute('id', 'logo');
-    logoElem.innerHTML = ' <img src="logo.png"  width="180" style="margin-bottom: 10px;"/>'
+    logoElem.innerHTML = ' <img src="logo.png"  width="180"/>'
     mainElem.appendChild(logoElem);
 
     //收藏  ‘<br /> \n <br /> <br /> 按 <font color=red><b>Ctrl+D</b></font> 收藏此页，永不迷路
