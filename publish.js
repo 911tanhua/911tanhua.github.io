@@ -38,7 +38,7 @@ var emails = [
 
 var urls=[]; 
        urls.push(".lgrhxewi.cc");  
-       urls.push(".911tanhua.com");
+       urls.push(".lgrhxewi.cc");
      
        
           
