@@ -37,10 +37,10 @@ var emails = [
 ];
 
 var urls=[
-	'amgfiyw.cc',
+	'lgrhxewi.cc',
 ];
                                                                                                                   
-var JumpPage="https://91nt.com";
+var JumpPage="https://lqbfrkdn.com";
 
 var newestUrls = [];
 
@@ -128,7 +128,7 @@ window.onload = function () {
     var newFavoritesElem =  createFieldElem({title: '<font color=red><b>Ctrl+D</b></font> 收藏此页，永不迷路', items: ""});
     mainElem.appendChild(newFavoritesElem);
     // newest urls
-    var newestFieldElem = createFieldElem({title: '最新地址', items: newestUrls, text: '请使用https://协议访问男同网'});
+    var newestFieldElem = createFieldElem({title: '最新地址', items: newestUrls, text: '请使用https://协议访问91探花'});
     mainElem.appendChild(newestFieldElem);
 
     // other urls
