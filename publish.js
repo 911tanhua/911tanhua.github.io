@@ -39,12 +39,12 @@ var emails = [
 var urls=[]; 
        urls.push(".qaovnhxe.com");  
        urls.push(".lgrhxewi.cc");
-     
+       urls.push(".rtwvrexk.com");
        
           
       
                                                                                  
-var JumpPage="https://qaopcytz.cc";
+var JumpPage="https://pjlcpuy.cc";
 
 var newestUrls = [];
 
