@@ -65,7 +65,7 @@ var otherUrls = [
     'https://911tanhua.github.io',
     'https://911tanhua.netlify.app',
     'https://911tanhua.pages.dev',
-    
+    'https://gitlab.com/911tanhua'
 ];
 var foreverUrls = [
 	'https://911tanhua.com',
