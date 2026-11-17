@@ -37,14 +37,14 @@ var emails = [
 ];
 
 var urls=[]; 
-       urls.push(".ofhjokkk.cc");  
+       urls.push(".ifbxhuxi.cc");  
+       urls.push(".ofhjokkk.cc");
        urls.push(".bcrpwgppp.cc");
-       urls.push(".hlqezjog.cc");
        
           
       
                                                                                  
-var JumpPage="https://nboxldpwc.cc";
+var JumpPage="https://91tanhua1.net";
 
 var newestUrls = [];
 
