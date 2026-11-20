@@ -44,7 +44,7 @@ var urls=[];
           
       
                                                                                  
-var JumpPage="https://91tanhua1.net";
+var JumpPage="https://91tanhua2.net";
 
 var newestUrls = [];
 
